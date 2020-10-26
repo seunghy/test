@@ -16,6 +16,7 @@ public class hello {
 			System.out.println(args[i]);
 			
 //test
+/////////////////fetch test///////////////////////
 		}
 		
 	}

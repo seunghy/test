@@ -14,7 +14,8 @@ public class hello {
 		args[1] = "second";
 		for (int i=0; i< args.length; i++) {
 			System.out.println(args[i]);
-			
+			//Ãæµ¹ÇÏ±î
+			//Ãæµ¹ Å×½ºÆ®123
 //test
 /////////////////fetch test///////////////////////
 
@@ -22,7 +23,9 @@ public class hello {
 
 			/////////////////fetch test222///////////////////////
 			
-			//ì¶©ëŒí…ŒìŠ¤íŠ¸//
+
+			//Ãæµ¹Å×½ºÆ®//
+
 
 		}
 		

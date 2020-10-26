@@ -14,14 +14,15 @@ public class hello {
 		args[1] = "second";
 		for (int i=0; i< args.length; i++) {
 			System.out.println(args[i]);
-			//충돌하까
-			//충돌 테스트123
+			//123456
 //test
 /////////////////fetch test///////////////////////
 
 			//fetch test3//
 
 			/////////////////fetch test222///////////////////////
+			
+			/////+++++++++
 			
 			
 

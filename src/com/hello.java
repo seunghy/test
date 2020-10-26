@@ -14,13 +14,19 @@ public class hello {
 		args[1] = "second";
 		for (int i=0; i< args.length; i++) {
 			System.out.println(args[i]);
+
 			///TTTTTTTTTTTTTT
+
+			
+
 //test
 /////////////////fetch test///////////////////////
 
 			//fetch test3//
 
 			/////////////////fetch test222///////////////////////
+			
+			/////+++++++++
 			
 			
 

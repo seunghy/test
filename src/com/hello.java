@@ -31,6 +31,13 @@ public class hello {
 			
 
 		}
+		boolean money = true;
+		if (money) {
+			System.out.println("ok");
+		}else {
+			System.out.println("no");
+		}
+		
 		
 	}
 }

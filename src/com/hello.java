@@ -14,8 +14,7 @@ public class hello {
 		args[1] = "second";
 		for (int i=0; i< args.length; i++) {
 			System.out.println(args[i]);
-			//충돌하까
-			//충돌 테스트123
+			///TTTTTTTTTTTTTT
 //test
 /////////////////fetch test///////////////////////
 
